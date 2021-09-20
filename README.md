@@ -1,1 +1,2 @@
-# Weighted-MST-GST
+# GHS
+
